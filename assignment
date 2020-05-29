@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Module-2</title>
+	<meta name="viewport" content="width=device-width initial-scale=1">
+	<link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+	<h1>Our Menu</h1>
+	<div class="col-lg-3 col-md-2">
+	<h2 id="a">Chicken</h2>
+	<p>lorem ipsum dolor sit amet, consectetur adipisicing elit.Suscipt adipisicing elit.adipisicing elit.adipisicing elit.adipisicing elit.adipisicing elit.lorem ipsum dolor sit amet, consectetur adipisicing elit.Suscipt adipisicing elit.adipisicing elit.adipisicing elit.adipisicing elit.adipisicing elit.</p>
+	</div>
+	<div class="col-lg-3 col-md-2">
+	<h2 id="b">Beef</h2>
+	<p>lorem ipsum dolor sit amet, consectetur adipisicing elit.Suscipt adipisicing elit.adipisicing elit.adipisicing elit.adipisicing elit.adipisicing elit.lorem ipsum dolor sit amet, consectetur adipisicing elit.Suscipt adipisicing elit.adipisicing elit.adipisicing elit.adipisicing elit.adipisicing elit.</p>
+	</div>
+	<div class="col-lg-3 col-md-11">
+	<h2 id="c">Sushi</h2>
+	<p>lorem ipsum dolor sit amet, consectetur adipisicing elit.Suscipt adipisicing elit.adipisicing elit.adipisicing elit.adipisicing elit.adipisicing elit.lorem ipsum dolor sit amet, consectetur adipisicing elit.Suscipt adipisicing elit.adipisicing elit.adipisicing elit.adipisicing elit.adipisicing elit.</p>
+	</div>
+
+</body>
+</html>
